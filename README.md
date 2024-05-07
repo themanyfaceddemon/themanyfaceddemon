@@ -13,3 +13,8 @@ My time zone is UTC+3.
 - С++    (I can read and understand, write programs)
 - C#     (I can read and understand)
 ```
+
+# Contacts_and_link.bin
+[Decoding bin file...] <br>
+- Discord: `cainheretic`
+- Codeberg: https://codeberg.org/themanyfaceddemon
