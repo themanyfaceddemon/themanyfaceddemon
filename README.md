@@ -2,7 +2,6 @@
 [Decoding bin file...]
 ```
 Hi, I’m @themanyfaceddemon. Or Cain. Whichever is more convenient for you.
-My time zone is UTC+3.
 ```
 
 # Code.bin
